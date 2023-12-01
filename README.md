@@ -47,7 +47,7 @@
 
 3. 일정 거리 이내 무작위 추천
 ```commandline
-@KernelBot 식당추천 0.200km이내 3군데 
+@KernelBot 식당추천 0.200km 3군데 
 ```
 
 ##### 식당평가
